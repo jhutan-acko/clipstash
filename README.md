@@ -32,7 +32,7 @@ token, and private note you ever copy, "trust me" wasn't quite the answer I want
 
 So instead of trusting, I built one I could **prove** is offline. The entire app — code, icon,
 build script, this README — was created in a single ~30-minute session with
-[Claude Code](https://claude.com/claude-code) on **June 1, 2026**. The interesting part wasn't
+[Claude Code](https://claude.com/claude-code) The interesting part wasn't
 just that it wrote the Swift; it's that it could *verify the privacy claim the same way I
 audited the original app* — inspecting entitlements, linked frameworks, and live network
 connections, and showing the receipts.
