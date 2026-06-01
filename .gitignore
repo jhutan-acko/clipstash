@@ -1,0 +1,9 @@
+# Build output (icon is regenerated from make_icon.swift by build.sh)
+ClipStash.app/
+ClipStash
+make_icon
+AppIcon.iconset/
+AppIcon.icns
+
+# macOS
+.DS_Store
